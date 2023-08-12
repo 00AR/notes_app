@@ -1,0 +1,3 @@
+mynotes/
+__pycache__/
+*.sqlite3
